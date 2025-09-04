@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Ewert);
+@import url(https://fonts.googleapis.com/css?family=Ultra);
+
+body {
+    background-image: url(../img/wood.jpg);
+    background-size: cover;
+    font-family: 'Ewert', cursive;
+    padding: 20px;
+    margin: 0;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.poster {
+    width: 450px;
+    height: 800px;
+    background-image: url(../img/paper.jpg);
+    background-size: cover;
+    border: 6px solid sienna;
+    text-align: center;
+    padding: 20px;
+}
+
+.poster h1{
+    background-color: sienna;
+    border: 10px solid black;
+    font-family: Ewert, cursive;
+    font-size: 44px;
+    margin: 0;
+    padding: 10px 0;
+    font-weight: normal;
+}
+
+.subheading {
+    background-color: whitesmoke;
+    border: 5px solid black;
+}
+
+h2{
+    background-color: whitesmoke;
+    border: 5px solid black;
+}
+
+
+
+
